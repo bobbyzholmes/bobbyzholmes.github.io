@@ -1,10 +1,8 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
-    width="30"
-    height="30"
-    viewBox="0 0 261.76 226.69"
+    viewBox="-130.88 -113.35 523.52 453.38"
 >
-    <title>VueJS</title>
+    <title>Vue</title>
     <path
     d="M161.096.001l-30.225 52.351L100.647.001H-.005l130.877 226.688L261.749.001z"
     fill="#41b883"
